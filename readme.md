@@ -37,7 +37,7 @@ On package.json add a command to fix all possible problems automatically with li
   },
 ```
 
-## Rule of Business, Functional Rules, Not Functional Rules
+## Business Rules, Functional Rules, Not Functional Rules
 
 ## FR
 
@@ -46,10 +46,10 @@ On package.json add a command to fix all possible problems automatically with li
 - [x] The user should list all trasactions realized
 - [x] The user should see one transaction
 
-## RB
+## BR
 
 - [x] The transaction can be of type credit that will sum the value, or debit that will subtract
-- [] Should be possible identify user through requisitions
-- [] The user just can see transactions created by himself
+- [x] Should be possible identify user through requisitions
+- [x] The user just can see transactions created by himself
 
 ## NFR
