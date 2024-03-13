@@ -5,4 +5,4 @@ app
   .listen({
     port: env.PORT,
   })
-  .then(() => console.log("http server running"));
+  .then(() => console.log("http server running at port: " + env.PORT));
